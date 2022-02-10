@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp_track-thumb</name>
+   <tag></tag>
+   <elementGuidId>cf0dccf0-daae-404a-bae9-a506ec16ee68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='baseFilterPrice']/div/div[2]/ul/li/span/div/div/div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>track-thumb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;baseFilterPrice&quot;)/div[@class=&quot;bg-c-dropdown&quot;]/div[@class=&quot;bg-c-dropdown__menu bg-c-dropdown__menu--open bg-c-dropdown__menu--fit-to-content bg-c-dropdown__menu--text-lg&quot;]/ul[1]/li[1]/span[1]/div[@class=&quot;dropdown-menu__container&quot;]/div[@class=&quot;base-content-container&quot;]/div[@class=&quot;input-range-container&quot;]/span[@class=&quot;track-thumb&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='baseFilterPrice']/div/div[2]/ul/li/span/div/div/div[2]/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

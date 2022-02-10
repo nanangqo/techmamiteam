@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test2SliderPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b1f5bef-06f5-4cde-8010-41e8ef156632</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>fed9771e-81e5-4ab7-af8f-571ebf5d48b5</id>
+      <masked>false</masked>
+      <name>DragPrice</name>
+   </variable>
+</TestCaseEntity>

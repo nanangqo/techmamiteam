@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_bayar penuh</name>
+   <tag></tag>
+   <elementGuidId>db8022ac-faf4-4c9f-8946-9f541dd72bca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bookingInputPriceDate']/div[3]/div[2]/div/div[2]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bookingInputPriceDate&quot;)/div[@class=&quot;booking-input-price__radio&quot;]/div[@class=&quot;dp-options&quot;]/div[@class=&quot;dp-options__radio-group&quot;]/div[@class=&quot;dp-options__radio-item&quot;]/div[@class=&quot;bg-c-radio&quot;]/label[1]/span[@class=&quot;bg-c-radio__icon&quot;]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bookingInputPriceDate']/div[3]/div[2]/div/div[2]/div/label/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Hanya menampilkan kos terverifikasi dengan dukungan keamanan dan jaminan dari Mamikos_bg-c-switch__input</name>
+   <tag></tag>
+   <elementGuidId>f75e4c01-b282-41be-ae04-f95bf7e09793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-c-dropdown__menu.bg-c-dropdown__menu--open.bg-c-dropdown__menu--fit-to-content.bg-c-dropdown__menu--text-lg > ul > li > span > div.dropdown-menu__switch > div.dropdown-menu__switch-container > div.dropdown-menu__switch-input > div.bg-c-switch.bg-c-switch--off > input.bg-c-switch__input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-c-switch__input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filterKostTypeWrapper&quot;)/div[@class=&quot;filter-kost-type&quot;]/div[@id=&quot;baseMainFilter&quot;]/div[@class=&quot;bg-c-dropdown&quot;]/div[@class=&quot;bg-c-dropdown__menu bg-c-dropdown__menu--open bg-c-dropdown__menu--fit-to-content bg-c-dropdown__menu--text-lg&quot;]/ul[1]/li[1]/span[1]/div[@class=&quot;dropdown-menu__switch&quot;]/div[@class=&quot;dropdown-menu__switch-container&quot;]/div[@class=&quot;dropdown-menu__switch-input&quot;]/div[@class=&quot;bg-c-switch bg-c-switch--off&quot;]/input[@class=&quot;bg-c-switch__input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='baseMainFilter']/div/div[2]/ul/li/span/div/div/div/div/input)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/ul/li/span/div/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+   </webElementXpaths>
+</WebElementEntity>

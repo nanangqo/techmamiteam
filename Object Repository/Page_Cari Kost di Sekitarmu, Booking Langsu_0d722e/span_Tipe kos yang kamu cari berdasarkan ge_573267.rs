@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tipe kos yang kamu cari berdasarkan ge_573267</name>
+   <tag></tag>
+   <elementGuidId>3318ceef-ea89-4621-92cd-781ddc4649e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.filter-input__custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='filter-input__custom-checkbox'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-input__custom-checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filterOptionsWrapper&quot;)/div[@id=&quot;baseMainFilter&quot;]/div[@class=&quot;bg-c-dropdown&quot;]/div[@class=&quot;bg-c-dropdown__menu bg-c-dropdown__menu--open bg-c-dropdown__menu--fit-to-content bg-c-dropdown__menu--text-lg&quot;]/ul[1]/li[1]/span[1]/div[@class=&quot;dropdown-menu__content&quot;]/div[@class=&quot;dropdown-menu__content-filter-data&quot;]/div[@class=&quot;filter-input&quot;]/label[@class=&quot;filter-input__label&quot;]/span[@class=&quot;filter-input__custom-checkbox&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='baseMainFilter']/div/div[2]/ul/li/span/div/div/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+   </webElementXpaths>
+</WebElementEntity>
